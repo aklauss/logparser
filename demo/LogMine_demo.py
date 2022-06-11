@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import sys
-sys.path.append('../')
+sys.path.append('../logparser')
 from logparser import LogMine
 
 input_dir  = '../logs/HDFS/' # The input directory of log file
