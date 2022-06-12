@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 import sys
+from pathlib import Path
+import os
 sys.path.append('../')
 from logparser import Spell
 
